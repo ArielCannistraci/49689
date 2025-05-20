@@ -1,4 +1,5 @@
 Instrucciones de ejemplos:
+
 1- Coloca el texto a analizar dentro del archivo input.txt.
 
 2-Para realizar pruebas, copia el contenido de cualquiera de los archivos "input_correcto.txt" o "input_incorrecto.txt" y pégalo dentro de input.txt.
